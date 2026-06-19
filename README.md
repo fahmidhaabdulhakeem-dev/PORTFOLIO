@@ -17,7 +17,8 @@ This project was built from scratch without the use of heavy frameworks, ensurin
 - **HTML5** (Semantic structure)
 - **CSS3** (Variables, Flexbox, CSS Grid, Keyframe Animations)
 - **Vanilla JavaScript** (DOM manipulation, Intersection Observer API, Event Listeners)
-- ````
 
-- Crafted with passion by Fahmidha Abdul Hakeem
+
+  ~```
+  Crafted with passion by Fahmidha Abdul Hakeem
 
